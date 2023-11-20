@@ -1,0 +1,42 @@
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\bin\Debug\Métodos Numéricos 401.exe.config
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\bin\Debug\Métodos Numéricos 401.exe
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\bin\Debug\Métodos Numéricos 401.pdb
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\bin\Debug\Calculus.dll
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\bin\Debug\Z.Expressions.Eval.dll
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\bin\Debug\Z.Expressions.Eval.xml
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos Numéricos 401.csproj.AssemblyReference.cache
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulaio_Regla_de_Simpson_1_3_por_intervalos.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Biseccion.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_ddf_adelante.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_ddf_atras.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_ddf_centrales.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Diferenciacion.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Evaluaciones.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Falsa_Posición.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Gauss.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Integracion_Numerica.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Iterativo_Secuencial.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Jacobi.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Métodos_Abiertos.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Form_Principal.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Ejercicios_Tema1.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Mapa_Conceptual.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Métodos_Cerrados.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Problemario_T3.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Problemario_T4.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_ProblemarioT2.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Problemario_Tema1.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Punto_Fijo.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Regla_de_Simpson_1_3.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Regla_de_Simpson_3_8.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Regla_del_Trapecio_Por_Intervalos.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Formulario_Regla_del_Trapecio.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Gauss_Seidel.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Netwon_Rhapson.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Properties.Resources.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos_Numéricos_401.Secante.resources
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos Numéricos 401.csproj.GenerateResource.cache
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos Numéricos 401.csproj.CoreCompileInputs.cache
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos Numéricos 401.csproj.CopyComplete
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos Numéricos 401.exe
+C:\Users\Alber\OneDrive\Escritorio\Métodos Numéricos 401\Métodos Numéricos 401\obj\Debug\Métodos Numéricos 401.pdb
