@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Métodos Numéricos 401.exe" version="1.0.0.0" publicKeyToken="59f731199aa85ae2" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Métodos Numéricos 401" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Métodos Numéricos 401.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de Control de cuentas de usuario
+          Si quiere cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por alguno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar la virtualización de archivos y del Registro para la
+         compatibilidad con versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Calculus.dll" size="19968">
+      <assemblyIdentity name="Calculus" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ztwy1iduk7N2KiD40ivrpCqMr4ndeWoQQkY2nBT+mbE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Métodos Numéricos 401.exe" size="17375712">
+      <assemblyIdentity name="Métodos Numéricos 401" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Peh4C8Yiq9ftR1HH3/nzlwdbMuvgWYI85V809P3MShE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Z.Expressions.Eval.dll" size="502784">
+      <assemblyIdentity name="Z.Expressions.Eval" version="4.0.80.0" publicKeyToken="59B66D028979105B" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>VcKV1G9Hpv2GIA3bkd1h/eAIQCrc9qFX+dm4gN9cOgI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Métodos Numéricos 401.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-9K9G7S5\Alber" issuerKeyHash="ba6b66e2843af661cb3b7824c4a2f2182c6ddc65" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ALVjyRygCLs3/EIAamB8Z0eOh3jenFruHv2pG/aDM2M=</DigestValue></Reference></SignedInfo><SignatureValue>hrauBa3yBpSX4nD6iXaV0gV+5AmDfOZER6aFm3J3x+wFIgC8VgRu5Q/QdQ5QMGzPZh6Y0QAP/0CplmyXbuZ/ZgUJeYUskmlSKo3bfxBVV4O7lAMlr1bCKt3O3+bjW1cITASXeVYpVV+iG/p+/WFnygEoD9geiPL5l+XGZrOtnGs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>oOLHs67r5b2yd60lhMKv8PsxA23SeiRbAuZPetzp1oHBqCjKXc5+nn1rp1/9DFw8IUzN+ZmIh0j+P1kACcyHtOt6ULrouiJ8G+5HklSsJKoxF7CMMpTFFV8jJ/YNrj++wkOGsLC+VyM5/m3BUWntJ7MMZL9DU+kJ5ocU+vIoEC0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="633383f61ba9fd1eee5a9cde78878e47677c606a0042fc37bb08a01cc963b500" Description="" Url=""><as:assemblyIdentity name="Métodos Numéricos 401.exe" version="1.0.0.0" publicKeyToken="59f731199aa85ae2" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-9K9G7S5\Alber</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>S5ZJ//gXo5Tv8bddtfRKXX0Ei09ipyZEcED/QtFJVbU=</DigestValue></Reference></SignedInfo><SignatureValue>Zwhph0wNoGHWfu1xPmmHI/rmO2WD1lf1jeOPyDJSUj/zQgoeT68IF3SwdB71y+RoJDaJrf6mJYau/2GXuJGTELeqMvarQUWk6815IbAfi7dmLiEtK0sIrjhjeoc4yE2rtYyTprO1aABymsrvXrJb3021gdC4LXLDitv87RN+b0I=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>oOLHs67r5b2yd60lhMKv8PsxA23SeiRbAuZPetzp1oHBqCjKXc5+nn1rp1/9DFw8IUzN+ZmIh0j+P1kACcyHtOt6ULrouiJ8G+5HklSsJKoxF7CMMpTFFV8jJ/YNrj++wkOGsLC+VyM5/m3BUWntJ7MMZL9DU+kJ5ocU+vIoEC0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQRKx5eUF22apF0pnK9jJjFDANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADkASwA5AEcANwBTADUAXABBAGwAYgBlAHIwHhcNMjIwNjA2MTkyMDE4WhcNMjMwNjA3MDEyMDE4WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtADkASwA5AEcANwBTADUAXABBAGwAYgBlAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAKDix7Ou6+W9snetJYTCr/D7MQNt0nokWwLmT3rc6daBwagoyl3Ofp59a6df/QxcPCFMzfmZiIdI/j9ZAAnMh7TrelC66LoifBvuR5JUrCSqMRewjDKUxRVfIyf2Da4/vsJDhrCwvlcjOf5twVFp7SezDGS/Q1PpCeaHFPryKBAtAgMBAAEwDQYJKoZIhvcNAQELBQADgYEABjwcFB7k5SPZpX/YKyHN6ouO2KdGD82wP3yhOu9nyQ7iJvnOL8x5MYrq2wvwlUFbpEabIkUVbJRhXbTYeBxOSVXkvXr7GfPbcT3upIh/3I7KUjyZYSxgGOevXsnj64nEGfE5jwzClDWoIS6iuZFwx2x5Gjn3DdfO1ZgL1dHmkds=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
